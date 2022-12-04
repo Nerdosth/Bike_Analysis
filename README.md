@@ -1,7 +1,7 @@
 # Bike_Analysis
 Working with 99Spokes API. 
 
-Working with Tableau to create visuals and an easier way to drill down into the data pulled from 99spokes. 
+Working with Tableau to create visuals and an easier way to drill down into the data pulled from 99spokes. The goal of this repository is to demonstrate the use of technology and coding and how it drastically improves the time to do market research. 
 
 https://public.tableau.com/app/profile/nicholas.erdos.thayer
 
