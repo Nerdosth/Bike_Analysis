@@ -3,7 +3,21 @@ Working with 99Spokes API.
 
 Working with Tableau to create visuals and an easier way to drill down into the data pulled from 99spokes. The goal of this repository is to demonstrate the use of technology and coding and how it drastically improves the time to do market research. 
 
-https://public.tableau.com/app/profile/nicholas.erdos.thayer
+
+With the help from 99spokes web scraping site and theAPI they built, with access, I wrote a python script that can loop through the dataset and export it to a csv file. From there, I can use powerful tools such as Tableau to drill into create visuals and views that allow users to drill into the data. 
+
 
 Example: 
-<img width="667" alt="image" src="https://user-images.githubusercontent.com/76061893/205455973-151db7e4-efe6-40ac-8152-2ea4a72a526a.png">
+
+I created a bar chart to visualize the count of models using a particular model of rear derauilluer, broken out by sub-category of mountain bikes. 
+
+<img width="737" alt="image" src="https://user-images.githubusercontent.com/76061893/205497002-4cce1403-4bb2-45f1-9030-4f57f8dcb82b.png">
+
+If I am reviewing this chart and wanted to learn more about about the competitive landscape of a bikes using a particular drivetrain series, I am able to select it from the chart and pull up the data.  In the example below, I was curious to know what Trail bikes were using Shimano XTR Rear Derailluers in 2022. 
+
+<img width="813" alt="image" src="https://user-images.githubusercontent.com/76061893/205497445-ab39cf19-f7d8-4007-b82a-297b42adc626.png">
+
+
+https://public.tableau.com/app/profile/nicholas.erdos.thayer
+
+
