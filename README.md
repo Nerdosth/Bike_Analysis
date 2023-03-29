@@ -3,8 +3,6 @@
 
 This code retrieves mountain bike data from the 99Spokes API and cleans it for analysis. The goal of this repository is to demonstrate the use of technology and coding and how it drastically improves the time to do market research. With the help of the 99spokes web scraping site and the API they built, with access, I wrote a python script that can loop through the dataset and export it to a CSV file. From there, I can use powerful tools such as Tableau to create visuals and views that allow users to drill into the data.
 
-![1680108276589](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/erdos/Class%20Folder/Bike_Analysis/image/README/1680108276589.png)![image](https://user-images.githubusercontent.com/76061893/205497445-ab39cf19-f7d8-4007-b82a-297b42adc626.png)
-
 You can find the Dashboard here: https://public.tableau.com/app/profile/nicholas.erdos.thayer/viz/MountainBikeAnalysis/MountainBikeTrends
 
 ## Dependencies
